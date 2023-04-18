@@ -1,0 +1,28 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "telemetry.telemetryLevel": "off",
+    
+    "workbench.colorTheme": "Frost",
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.colorCustomizations": {
+      "editorBracketHighlight.foreground1": "#ececec",
+      "editorBracketHighlight.foreground2": "#b5e5ee",
+      "editorBracketHighlight.foreground3": "#5fddee",
+      "editorBracketHighlight.foreground4": "#3d97cc",
+      "editorBracketHighlight.foreground5": "#304adf",
+      "editorBracketHighlight.foreground6": "#6535eb",
+      "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
+    },
+    "editor.showFoldingControls": "always",
+    "editor.foldingStrategy": "auto",
+    "editor.defaultFoldingRangeProvider": "zokugun.explicit-folding",
+    "explicitFolding.rules": {
+      "*": {
+          "begin": "/>>",
+          "end": "/<<"
+      }
+    },
+    "editor.wordWrap": "on"
+    
+}
