@@ -13,5 +13,9 @@ again, this isnt finished or ready so if you want to install this now, its a bit
 1) follow the first three steps here: https://themes.vscode.one/faq/publishing-theme
 for step 3 use the theme json file included here
 
-2) for custom bracket colors and some settings that i use, just copy the profile settings file into your user profile settings
+2) place the whole folder with the new edited json file in the extensions folder for vscode. (in reg vs code its in C:\Users\<user>\.vscode\extensions for codium its <CodiumDirectory>\resources\app\extensions
+  
+3) restart codium and choose change theme color from preferences
+
+4) for custom bracket colors and some settings that i use, just copy the profile settings file into your user profile settings
 (CTRL + SHIFT + P, then search settings and choose user settings file)
