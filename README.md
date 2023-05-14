@@ -6,6 +6,7 @@ A color theme for Visual Studio Code. (i use Codium and recommend it: https://vs
 
 NOT COMPLETE or ready for distribution, this is more of a personal placeholder until i finish the theme. 
 
+The goal and general feel of this theme is to have a more contrasting, darker, and intense version of NORD. Not intended as a replacement however. i find nord to be great for general computing as its relaxing and comfortable, but for tasks that require focus and discerning elements (like coding) some more intense colors function better.
 
 Installation:
 again, this isnt finished or ready so if you want to install this now, its a bit of a workaround but should still work.
