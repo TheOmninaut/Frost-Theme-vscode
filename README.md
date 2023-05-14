@@ -3,6 +3,7 @@
 A color theme for Visual Studio Code. (i use Codium and recommend it: https://vscodium.com/)
 ![Frost_Preview](https://user-images.githubusercontent.com/111587392/232921229-ae2fde4e-287f-45a7-9173-79795023968b.PNG)
 ![Frost_Preview_Rust](https://user-images.githubusercontent.com/111587392/232961855-bf398ff4-2789-4c89-bd47-b608380fdcf0.PNG)
+![Example3](https://github.com/TheOmninaut/Frost-Theme-vscode/assets/111587392/07e67d6d-14e0-479b-a9db-15836f183cb4)
 
 NOT COMPLETE or ready for distribution, this is more of a personal placeholder until i finish the theme. 
 
