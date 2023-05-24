@@ -1,28 +1,79 @@
 {
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
-    "telemetry.telemetryLevel": "off",
-    
-    "workbench.colorTheme": "Frost",
-    "editor.bracketPairColorization.enabled": true,
-    "workbench.colorCustomizations": {
-      "editorBracketHighlight.foreground1": "#ececec",
-      "editorBracketHighlight.foreground2": "#b5e5ee",
-      "editorBracketHighlight.foreground3": "#5fddee",
-      "editorBracketHighlight.foreground4": "#3d97cc",
-      "editorBracketHighlight.foreground5": "#304adf",
-      "editorBracketHighlight.foreground6": "#6535eb",
-      "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
-    },
-    "editor.showFoldingControls": "always",
-    "editor.foldingStrategy": "auto",
-    "editor.defaultFoldingRangeProvider": "zokugun.explicit-folding",
-    "explicitFolding.rules": {
-      "*": {
-          "begin": "/>>",
-          "end": "/<<"
-      }
-    },
-    "editor.wordWrap": "on"
-    
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "telemetry.telemetryLevel": "off",
+
+  "terminal.integrated.shell.windows": "cmd.exe",
+  
+  "workbench.colorTheme": "Frost",
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#ececec",
+    "editorBracketHighlight.foreground2": "#b5e5ee",
+    "editorBracketHighlight.foreground3": "#5fddee",
+    "editorBracketHighlight.foreground4": "#3d97cc",
+    "editorBracketHighlight.foreground5": "#6481b6",
+    "editorBracketHighlight.foreground6": "#848591",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
+  },
+  "editor.showFoldingControls": "always",
+  "editor.foldingStrategy": "auto",
+  "editor.defaultFoldingRangeProvider": "zokugun.explicit-folding",
+  "explicitFolding.rules": {
+    "*": {
+        "begin": "//>>",
+        "end": "//<<"
+    }
+  },
+  "editor.wordWrap": "on"
+  
 }
+
+/*
+{{{{{{
+}
+}
+}
+}
+}
+}
+
+{
+{
+  {
+    {
+      {
+        {
+        }
+      }
+    }
+  }
+}
+}
+*/
+
+/* 
+----More "Iceberg" esk----
+foreground1": "#ececec",
+foreground2": "#b5e5ee",
+foreground3": "#5bbac7",
+foreground4": "#5099c4",
+foreground5": "#5e83ad",
+foreground6": "#4d5983",
+
+----More "Colorful" so maybe more readable / discernable
+foreground1": "#ececec",
+foreground2": "#b5e5ee",
+foreground3": "#5fddee",
+foreground4": "#3d97cc",
+foreground5": "#304adf",
+foreground6": "#6535eb",
+
+----Not as smooth as the other iceberg but more readable. kind of like a middleground
+foreground1": "#ececec",
+foreground2": "#b5e5ee",
+foreground3": "#5fddee",
+foreground4": "#3d97cc",
+foreground5": "#6481b6",
+foreground6": "#848591",
+*/
